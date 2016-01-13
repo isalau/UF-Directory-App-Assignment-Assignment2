@@ -1,0 +1,90 @@
+.addNewBlock{
+  margin-top: 10px;
+}
+
+body{
+  font-family: 'Oswald', Arial, sans-serif;
+  font-weight: 300;
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+  background-image: url("pic.jpg");
+  background-size: 100% auto;
+}
+
+
+button{
+  border-radius: 12px;
+  background-color: white;
+  text-align: center;
+  padding: 5px;
+  border: 2px solid gray;
+}
+
+#searchBar {
+  margin: 15px 10px;
+}
+
+.tableWrapper {
+  max-height: 400px;
+  overflow: auto;
+}
+
+.form-control {
+  border-radius: 0;
+}
+
+h1 {
+ 
+  font-weight: 400; 
+}
+
+.header{
+  color: blue;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  background-color: #ff9d00;
+  margin-bottom: 10px;
+
+}
+
+.row1{
+  font-weight: 300;
+  font-size: 25px;
+}
+
+input {
+  font-weight: 300;
+}
+
+.input-group-addon {
+  border-radius: 0; 
+}
+
+.jumbotron{
+  background-color: transparent; 
+  color:white;
+  text-shadow: -1px -1px #000;
+}
+
+label {
+  width= 100%;
+}
+
+table{
+  border: 2px solid gray;
+  background-color: #ff9d00;
+}
+
+th{
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'Oswald', sans-serif;
+}
+
+h2{
+  text-align: left;
+}
+
+
